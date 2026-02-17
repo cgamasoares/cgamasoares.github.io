@@ -14,11 +14,6 @@ enableRobotsTXT = true
 title = "Ananke"
 weight = 1
 contentDir = "content/en"
-# languageDirection = 'rtl' for Right-To-Left languages
-[languages.fr]
-title = "Ananke Fr"
-weight = 2
-contentDir = "content/fr"
 
 [sitemap]
 changefreq = "monthly"
@@ -41,3 +36,7 @@ url = "https://twitter.com/GoHugoIO"
 
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[caches]
+[[caches.images]]
+    dir = ':cacheDir/images'

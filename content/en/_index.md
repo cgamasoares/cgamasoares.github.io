@@ -1,7 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Meu Portfólio"
 
-description: "The last theme you'll ever need. Maybe."
+description: "Aqui demonstro meus projetos e coisas legais que fiz ao longo do tempo"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
