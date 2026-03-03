@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "Ananke"
+title = "Camila G. Soares"
 weight = 1
 contentDir = "content/en"
 
